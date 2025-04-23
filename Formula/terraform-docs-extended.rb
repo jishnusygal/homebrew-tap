@@ -2,7 +2,7 @@ class TerraformDocsExtended < Formula
   desc "Extended Terraform module documentation generator with Usage block segregation"
   homepage "https://github.com/jishnusygal/terraform-docs-extended"
   url "https://github.com/jishnusygal/terraform-docs-extended/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "00000000000000000000000000000000000000000000000000" # This will be updated after the first real release
+  sha256 "bb6f1b6ba90e17b97670583fd8c8a3db5e75b750aa8316e5e8517f2db3e8b99d"
   license "MIT"
   head "https://github.com/jishnusygal/terraform-docs-extended.git", branch: "main"
 
